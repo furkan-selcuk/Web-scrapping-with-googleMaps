@@ -288,23 +288,12 @@ async function dosyalariGuncelle(firmalar, anahtarKelime, sehir) {
 async function tumAramalariYap() {
     //şehir dizisi
     const sehirler = [
-        "Hatay",
-        "hatay kırıkhan ",
-        "hatay arsuz",
-        "hatay erzin",
-        "hatay akbez"
+        //şehir isimleri
         
     ];
     //sektör dizisi
     const sektorler = [
-        "Emlak Ofisi",
-        "Elektrikçi",
-        "Mutfak",
-        "Su Tesisatçısı",
-        "Marangoz",
-        "Oto Tamirci",
-        "Klima Servisi",
-        "Cep Telefonu Tamiri"
+        //sektör isimleri
         
     ];
 
