@@ -1,0 +1,13 @@
+{
+  "name": "sanayi-firma-scraper",
+  "version": "1.0.0",
+  "description": "Sanayi firmalarının isimlerini toplayan web scraper",
+  "main": "scrap.js",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "node scrap.js"
+  }
+}
